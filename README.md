@@ -6,3 +6,6 @@
 + HTML
 + CSS
 + JavaScript
+
+## Preview:
+![Preview](https://github.com/RostyslavWeb/Omnifood-project/blob/master/omnifood-index.jpg)
